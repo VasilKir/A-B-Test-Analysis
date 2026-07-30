@@ -25,6 +25,6 @@ This project analyzes an A/B test using Python and statistical methods to evalua
 
 ## Dashboard Preview
 
-![Dashboard](Tableau_A_B Testing.png)
+![Dashboard](Tableau A_B Testing.png)
 
 🔗 [Tableau Dashboard](https://public.tableau.com/views/Portfolio2_17852343207190/ABTestAnalysisDistributionStatisticalSignificance)
