@@ -23,4 +23,8 @@ This project analyzes an A/B test using Python and statistical methods to evalua
 - `Portfolio2.ipynb` – Python analysis
 - `README.md` – Project description
 
+## Dashboard Preview
+
+![Dashboard](Tableau_A_B Testing.png)
+
 🔗 [Tableau Dashboard](https://public.tableau.com/views/Portfolio2_17852343207190/ABTestAnalysisDistributionStatisticalSignificance)
